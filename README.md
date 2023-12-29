@@ -1,2 +1,2 @@
 # rtsp2rtmp
-rtsp too rtmp convert
+rtsp to rtmp convert
